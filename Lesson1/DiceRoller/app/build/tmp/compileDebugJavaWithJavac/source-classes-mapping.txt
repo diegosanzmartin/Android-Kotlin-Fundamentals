@@ -1,2 +1,0 @@
-com/diegosm/diceroller/BuildConfig.java
- com.diegosm.diceroller.BuildConfig
