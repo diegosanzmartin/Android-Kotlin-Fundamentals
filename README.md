@@ -1,4 +1,5 @@
 # Android-Kotlin-Fundamentals
-Codelabs for Android Kotlin Fundamentals
 
-<a href="https://developer.android.com/courses/kotlin-android-fundamentals/toc">Codelabs for Android Kotlin Fundamentals Link</a>
+Soluciones de las lecciones del Curso [Codelabs for Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/toc)  
+
+1. [Lección 1](/Lesson1/)
